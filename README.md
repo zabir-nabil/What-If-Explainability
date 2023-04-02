@@ -1,5 +1,9 @@
 # What-If-Explainability
 
+### Articles
+ * [Explaining Trees with FastTreeShap and What if tool (Part-1)](https://medium.com/@furcifer/explaining-trees-with-fasttreeshap-and-what-if-tool-dc0afde9613)
+ * [Explaining Trees with FastTreeShap and What if tool (Part-2)](https://medium.com/@furcifer/explaining-trees-with-fasttreeshap-and-what-if-tool-part-2-6ec140d45967)
+ 
 ### WIT Usage
 
  * Interactively changing a feature value and seeing how the prediction scores and the SHAP values change. It’s really useful if we want to understand if the model has   learned the feature space in a way that can be explained with common sense. For instance, let’s say we are trying to predict the price of an apartment. If all the features are constant, we expect the price to go up if we increase the area.
